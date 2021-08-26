@@ -1,2 +1,7 @@
 # hello-world
-Just 2 learn
+
+Hey people,
+
+I`m just using this 2 leearn coding.
+
+#Just2learn
